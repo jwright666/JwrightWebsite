@@ -1,0 +1,17 @@
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\JwrightWebsite.dll.config
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\JwrightWebsite.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\JwrightWebsite.pdb
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Helpers.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Mvc.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Razor.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.Deployment.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.Razor.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Razor.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.Deployment.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Webpages.Razor.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Helpers.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\bin\System.Web.Mvc.xml
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\obj\Debug\JwrightWebsite.dll
+D:\Gerry\JWRIGHT_CARE\JwrightWebsite\obj\Debug\JwrightWebsite.pdb
